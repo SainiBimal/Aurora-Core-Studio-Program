@@ -34,6 +34,15 @@ This project provides a clean touchscreen interface designed for iPad devices to
 
 <img width="484" height="304" alt="dd" src="https://github.com/user-attachments/assets/565969cc-a0f8-4ce8-b000-92cd1ad3e924" />
 
+<img width="488" height="309" alt="jp2" src="https://github.com/user-attachments/assets/287c229a-8bd1-468c-adf8-e029c91d02a9" />
+
+<img width="488" height="309" alt="jp1" src="https://github.com/user-attachments/assets/66e848c0-7b4f-4920-be20-abd6152bfe29" />
+
+<img width="487" height="308" alt="jpj" src="https://github.com/user-attachments/assets/5565b2dd-51dd-4834-b359-23b34a34a1fb" />
+
+
+
+
 
 
 ## Project Structure
