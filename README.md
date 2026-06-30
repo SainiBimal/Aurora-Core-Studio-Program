@@ -35,7 +35,7 @@ This project provides a clean touchscreen interface designed for iPad devices to
 Add screenshots here.
 
 ```
-<img width="484" height="304" alt="dd" src="https://github.com/user-attachments/assets/75d85b61-903e-4e5a-84c1-590c4a2633df" />
+https://github.com/user-attachments/assets/75d85b61-903e-4e5a-84c1-590c4a2633df
 
 ```
 
